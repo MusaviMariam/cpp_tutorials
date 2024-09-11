@@ -1,0 +1,6 @@
+g++ is a C++ compiler / gcc is a C compiler
+default executable is created by the G++ compiler --> a.out
+name the executable using flag "-o" (store the executable objects)
+
+
+main() is the starting point of the execution process in C++

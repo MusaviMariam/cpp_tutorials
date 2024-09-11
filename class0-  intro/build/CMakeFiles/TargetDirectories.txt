@@ -1,0 +1,5 @@
+/home/mariam/Documents/CPP coding practice/build/CMakeFiles/WordFrequencyCount.dir
+/home/mariam/Documents/CPP coding practice/build/CMakeFiles/CMakeCXXCompilerId.dir
+/home/mariam/Documents/CPP coding practice/build/CMakeFiles/main.dir
+/home/mariam/Documents/CPP coding practice/build/CMakeFiles/edit_cache.dir
+/home/mariam/Documents/CPP coding practice/build/CMakeFiles/rebuild_cache.dir
