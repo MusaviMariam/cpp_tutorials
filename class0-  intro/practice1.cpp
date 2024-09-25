@@ -1,4 +1,4 @@
-#include <iostream> //header files contains declarations fo functions using #include
+#include <iostream> //header files contains declarations for functions using #include
 #include <fstream> 
 #include <stdio.h> //to include C header file <name.h> or <cname> same files line 3 and 4
 #include <cstdio>
