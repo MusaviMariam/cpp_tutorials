@@ -4,8 +4,6 @@
 using namespace std;
 
 int main (){
-
-
     int rows=2;
     int cols=2;
     int array[rows][cols];

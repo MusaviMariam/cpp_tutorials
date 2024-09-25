@@ -4,7 +4,6 @@
 using namespace std;
 
 int main(){
-
     int numberD; //decimal number
     int bit=4; //4-bit integer decimal number
 

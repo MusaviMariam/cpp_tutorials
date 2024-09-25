@@ -6,7 +6,6 @@ Step#02:  ./Solution1 */
 #include<string>
 
 using namespace std;
-
 int main(){
 
     int age;
