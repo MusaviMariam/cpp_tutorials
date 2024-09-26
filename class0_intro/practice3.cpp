@@ -12,7 +12,6 @@ struct Student {
 
 };
 class Teacher {
-    
 string name;
 void display(){
     cout<< name <<endl;
