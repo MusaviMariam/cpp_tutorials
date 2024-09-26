@@ -6,7 +6,7 @@ This repository contains tutorials and examples to help you learn C++ programmin
 
 1. [Introduction to C++](#introduction-to-c)
 2. [Basic Syntax and Structure](#basic-syntax-and-structure)
-3. [Control Flow (if, else, loops)](#control-flow)
+3. [Pointers, Dynamic Memory, Control Flow (if, else, loops)](#control-flow)
 4. [Functions and Recursion](#functions-and-recursion)
 5. [Object-Oriented Programming (OOP)](#object-oriented-programming)
 6. [Memory Management and Pointers](#memory-management-and-pointers)
