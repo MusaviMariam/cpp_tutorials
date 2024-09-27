@@ -1,0 +1,15 @@
+- key concepts learnt
+- Data Types:
+	1. Primitive (short, int, long, long long, float, double, char, bool)
+	2. Non-primitive (strings)  
+- Tokens:
+	1. Keywords (using, namespace, int, for, do, while, typedef, return, static, const, )
+	2. Operators (.,)
+	3. Identifiers 
+	4. Separators (), {}, ;, 
+	5. Constants (0)
+- Pre-processor directives
+    #include
+    #define 
+    #ifndef
+ 
