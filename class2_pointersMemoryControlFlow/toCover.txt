@@ -1,0 +1,10 @@
+- bitwise operators: (<< >>), logical operators: (AND, OR, and NOT) and ternary operators: (? :)
+- strings in C++ to read an entire line and store it in a string variable
+- geline function:  cin.getline().
+- if-else condition
+- pointers, memory, array variable, dynamic memory
+- new operator and delete operator
+- pass by value, pass by reference
+- pointer in if else, in one line, all control paths
+- functions, cpp reference pointers, pointers
+
