@@ -8,9 +8,9 @@ Step#02:  ./Solution1 */
 using namespace std;
 int main(){
 
-    int age;
-    string name;
-    int threshold = 19;
+    int age;            //Age of a person 
+    string name;        //Name of a person
+    int threshold = 19; //Teenager threshold
     
     cout<< "Enter age:" <<endl;
     cin>> age;
@@ -27,7 +27,7 @@ int main(){
     return 0;
 }
 
-//Comment: it was simpler to get the input at runtime and then put some if else conditional statement.
+//Comment: it was simpler to get the input at runtime and then put some Control flow (if else) conditional statement.
 
 /*[Input & Output] Q1: Write a c++ program to input age and name. Display the string and print a message if the input age is teenage or not. 
 
