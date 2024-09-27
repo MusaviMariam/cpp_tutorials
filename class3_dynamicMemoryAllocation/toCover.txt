@@ -1,0 +1,12 @@
+- pointers: *, &
+- variable pointers
+- use of pointers
+- array variable
+- using * in array variable 
+- malloc
+- calloc
+- free
+- arrays - C style
+- arrays - C++ style
+- deleteing and freeing memory
+- pointers in use: linked list
