@@ -1,0 +1,9 @@
+- basic syntax
+- g++ is a C++ compiler / gcc is a C compiler
+- default executable is created by the G++ compiler --> a.out
+- default executable name "a.out" and the use of the "-o" flag to name the executable.
+- name the executable using flag "-o" (store the executable objects) e.g. - "g++ practice1.cpp" to compile the code and create an executable.
+- main() is the starting point of the execution process in C++
+- "for" loop syntax and its application in printing numbers
+- "while" loop and its condition for continuous execution
+- limitations of structs in C++ compared to classes.
